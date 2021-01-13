@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/desarrollo-modular", {data:[{}],fetch:[],mutations:[]});
